@@ -1,0 +1,24 @@
+{
+  "name": "@thiago-tanaka/debug",
+  "version": "1.0.0",
+  "description": "print error with colors in terminal.",
+  "main": "debug.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiago-tanaka/debug.git"
+  },
+  "keywords": [
+    "debug",
+    "terminal",
+    "colored"
+  ],
+  "author": "Thiago Tanaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiago-tanaka/debug/issues"
+  },
+  "homepage": "https://github.com/thiago-tanaka/debug#readme"
+}
